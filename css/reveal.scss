@@ -49,8 +49,8 @@ html.reveal-full-page {
  *********************************************/
 
 .reveal .slides section .fragment {
-	opacity: 0;
-	visibility: hidden;
+	opacity: 0.2;
+	visibility: inherit;
 	transition: all .2s ease;
 	will-change: opacity;
 
